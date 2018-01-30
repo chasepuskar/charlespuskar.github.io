@@ -1,10 +1,9 @@
 
 This website is currently incomplete!  Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar)!
 
-[Link to a document](biographical.md)
 
 <!---
-
+[Link to a document](biographical.md)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chasepuskar/chasepuskar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
