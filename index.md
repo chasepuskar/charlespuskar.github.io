@@ -1,7 +1,7 @@
 
 This website is currently incomplete!  Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar)!
 
-[Link to a document]({{ chasepuskar.github.io }}{% biographical.md %})
+[Link to a document](biographical.md)
 
 # Work
 
