@@ -3,51 +3,6 @@ This website is currently incomplete!  Check out my [LinkedIn](https://www.linke
 
 [Link to a document](biographical.md)
 
-# Work
-
-## Special Course Work
-<!---
-Showcase your abilities by presenting work of which you are especially proud. We recommend 3 or so samples of especially difficult, creative, or noteworthy work done for a course. For exmaple, a design project, a fourier project, a particularly difficult proof from "APPM Analysis class", a paper you wrote in German for a class, etc.
--->
-## Creative Work
-<!---
-This can take a variety of forms.  It can be creativity in a design project, creative writing (poetry, fiction, etc.), visual art (drawing, painting, video work, etc.); video/audio of musical work; musical scores; video of performances; etc.
--->
-## Writing Samples
-<!---
-The ability to communicate well is essential to almost any type of success.  This section should present 2-3 writing samples that demonstrate your ability to organize your thoughts, the quality of your reasoning and the clarity of expressing your thoughts.  Your Symposium speech from Critical Encounters I could be your first posted sample.  This writing could be from a class, but it could also be something related to research, an article you are working on or something you are presenting to a non-academic group.
--->
-## Senior Design Projects
-<!---
-You may choose to include a comprehensive presentation of your senior design project: it's scope, purpose, driving question, technical problem being addressed, process, outcome, etc. Again, this could be an imbedded powerpoint presentation, a narrative, etc.  You should include multiple pictures or video.  A main goal of this section would be for potential employees or grad schools to be able to see what you did in your senior design project/thesis.
--->
-# Experience
-
-## Internships
-<!---
-Present internship experiences, including not only a presentation of what you did, but reflections on what you learned, the value of the project, how this fits your ambitions, etc.
--->
-## Special Initiatives
-<!---
-Highlight something unique that you want to make known.  This could be your work on something like starting a tutoring program, a student group, projects you've worked on in the Makerspace, etc. You may choose to include your reflections on this as well a comprehensive presentation of what you did.
--->
-## International Experience
-<!---
-Present your international experiences (EWB, Study Abroad, Development Projects, international volunteer projects, etc.).
--->
-# Service
-<!---
-Present the ways in which you have been involved in service, such as TEAMS, EWB, tutoring, Habitat for Humanity, EEF, things you've done for the EHP community, reading EHP applications ;)...Include pictures or video or a powerpoint presentation or you can embed web links to official webpages to communicate your work. You may choose to include your reflections on why you think this project matters, what you learned from it, why you did it, etc.
--->
-# Leadership
-<!---
-The concept of leadership can include many different things (many of which will overlap with "Service"): society/group leadership, leading a design project, being a tutor/LA, a recitation leader, organizing special events, being a TEAMS leader, etc.
--->
-# Research
-<!---
-Present any research work you have done--for a class, in someone's lab, during an REU or an internship.  Include pictures, video, powerpoint presentations, visuals, etc. where relevant. This section will be especially interesting to grad schools, employers, potential research advisors (at REUs, etc.).
--->
-
 <!---
 
 ## Welcome to GitHub Pages
