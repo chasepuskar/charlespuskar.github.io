@@ -1,5 +1,5 @@
 
-![chaselikesrockets](/_images/rocket.jpeg){:class="img-responsive"}
+![chaselikesrockets](/_images/rocket.jpeg){:class="img-responsive"}{:height="100px" width="128px"}
 
 
 <!---
