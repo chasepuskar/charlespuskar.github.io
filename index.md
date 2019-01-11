@@ -1,5 +1,5 @@
 
-This website is currently incomplete!  Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar)!
+![chaselikesrockets](/_images/rocket.jpeg){:class="img-responsive"}
 
 
 <!---
