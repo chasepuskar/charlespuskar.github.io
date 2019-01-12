@@ -18,7 +18,7 @@
 
 <br />
 
-<img src="images/platform.jpeg" alt="" align="center" height="205" hspace="5"/> <img src="images/test.jpeg" alt="" align="center" height="205" hspace="5"/> <img src="images/wiresBetter.jpg" alt="" align="center" height="205" hspace="5"/>
+<img src="images/platform.jpeg" alt="" align="center" height="200" hspace="5"/> <img src="images/test.jpeg" alt="" align="center" height="200" hspace="5"/> <img src="images/wiresBetter.jpg" alt="" align="center" height="200" hspace="5"/>
 
 <BR CLEAR="left">
 
