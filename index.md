@@ -2,4 +2,4 @@
 
 In my free time, I enjoy coding and app development, skiing, camping, backpacking, and rock climbing, and listening to and making music.
 
-Currently looking for a Summer 2019 Internship! 
+Currently looking for a Summer 2019 Internship!
