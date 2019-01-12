@@ -18,7 +18,7 @@
 
 <br />
 
-<img src="images/platform.jpeg" alt="" align="center" height="200" hspace="5" vpsace="50"/> <img src="images/test.jpeg" alt="" align="center" height="200" hspace="5" vpsace="50"/> <img src="images/wiresBetter.jpg" alt="" align="center" height="200" hspace="5" vpsace="50"/>
+<img src="images/platform.jpeg" alt="" align="center" height="205" hspace="5" vpsace="50"/> <img src="images/test.jpeg" alt="" align="center" height="205" hspace="5" vpsace="50"/> <img src="images/wiresBetter.jpg" alt="" align="center" height="205" hspace="5" vpsace="50"/>
 
 <BR CLEAR="left">
 
@@ -42,6 +42,6 @@
 
 <br />
 
-<img src="images/homescreen.png" alt="" align="center" height="400" hspace="5" vpsace="50"/> <img src="images/register.png" alt="" align="center" height="400" hspace="5" vpsace="50"/> <img src="images/events.png" alt="" align="center" height="400" hspace="5" vpsace="50"/> <img src="images/create.png" alt="" align="center" height="400" hspace="5" vpsace="50"/>
+<img src="images/homescreen.png" alt="" align="center" height="380" hspace="5" vpsace="50"/> <img src="images/register.png" alt="" align="center" height="380" hspace="5" vpsace="50"/> <img src="images/events.png" alt="" align="center" height="380" hspace="5" vpsace="50"/> <img src="images/create.png" alt="" align="center" height="380" hspace="5" vpsace="50"/>
 
 <BR CLEAR="left">
