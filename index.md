@@ -6,5 +6,5 @@ Currently looking for a Summer 2019 Internship!
 
 Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar/) or contact me at charles.puskar@colorado.edu (resume on request)
 
-![frontimage](/images/rocket.jpeg){: .align-left}{:height="400px" width="312px"}
+![frontimage](/images/rocket.jpeg){:class="img-responsive"}{:height="400px" width="312px"}
 
