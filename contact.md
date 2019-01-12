@@ -1,5 +1,5 @@
-<center> Currently looking for a Summer 2019 Internship! </center>
+Currently looking for a Summer 2019 Internship! 
 
-<center> Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar/), or contact me at charles.puskar@colorado.edu.</center>
+Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar/), or contact me at charles.puskar@colorado.edu.
 
-<center> Resume on request.</center>
+Resume on request.
