@@ -5,7 +5,6 @@
 Basic resume, updated each year as needed.
 -->
 
-<iframe width="100%" height="1300" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vTmMdY-5nMmareD20964b8ltyjf_ILD1pmwFLdn97dvqzWekwVLpWf4aHjZnCKVFC9eRpk0gkdpDuhA/pub?embedded=true"></iframe>
 
 ## Philosophy of Education
 <!---
