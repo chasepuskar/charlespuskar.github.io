@@ -42,6 +42,6 @@
 
 <br />
 
-<img src="images/homescreen.png" alt="" align="center" height="350" hspace="5" vpsace="50"/> <img src="images/register.png" alt="" align="center" height="350" hspace="5" vpsace="50"/> <img src="images/events.png" alt="" align="center" height="350" hspace="5" vpsace="50"/> <img src="images/create.png" alt="" align="center" height="350" hspace="5" vpsace="50"/>
+<img src="images/homescreen.png" alt="" align="center" height="330" hspace="5" vpsace="50"/> <img src="images/register.png" alt="" align="center" height="330" hspace="5" vpsace="50"/> <img src="images/events.png" alt="" align="center" height="330" hspace="5" vpsace="50"/> <img src="images/create.png" alt="" align="center" height="330" hspace="5" vpsace="50"/>
 
 <BR CLEAR="left">
