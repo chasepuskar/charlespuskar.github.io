@@ -4,4 +4,4 @@ In my free time, I enjoy coding and app development, skiing, camping, backpackin
 
 Currently looking for a Summer 2019 Internship! 
 
-Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar/) or contact me at charles.puskar@colorado.edu (resume on request) 
+Check out my [LinkedIn](https://www.linkedin.com/in/charles-puskar/), or contact me at charles.puskar@colorado.edu (resume on request).
