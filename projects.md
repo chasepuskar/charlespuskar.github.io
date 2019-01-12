@@ -6,7 +6,7 @@
 
 <img src="images/rockcad.png" alt="testing" align="center" width="250px" hspace="20" vpsace="50"/> <img src="images/prelaunch.png" alt="testing" align="center" width="250px" hspace="20" vpsace="50"/> <img src="images/postlaunch.png" alt="testing" align="center" width="250px" hspace="20" vpsace="50"/>
 
-...
+****
 
 ## Miura II: Flight Software Team
 
