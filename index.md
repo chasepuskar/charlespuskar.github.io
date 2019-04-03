@@ -1,4 +1,4 @@
-<img src="images/rocket.jpeg" alt="" align="right" height="420" hspace="20"/> 
+<img src="images/rocket.jpeg" alt="" align="right" height="440" hspace="20"/> 
 
 My name is Chase Puskar, welcome to my Engineering Portfolio!
 
