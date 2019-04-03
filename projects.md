@@ -24,9 +24,9 @@
 
 ****
 
-## Project Threat Level Midnight: Team Co-Lead/Software Lead (Fall 2016)
+## Project TLM: Team Co-Lead/Software Lead (Fall 2016)
 
-<img src="images/presentation.jpg" alt="" align="left" height="250" hspace="10"/> This project was for the ASEN 1400 Gateway to Space course at CU Boulder, and was my first experience working on an aerospace related project. The project researched the viability of water as a shield against dangerous particle and electromagnetic radiation found in space and near space. Our team designed, built, launched, and recovered a high-altitude balloon satellite with an integrated Arduino Uno microcontroller and an analog sensor package. As team co-lead, I helped coordinate team member responsibilities a prepare the project proposal, design reviews, and final report. As Software Lead, I wrote the project's flight software in C, which operated two geiger counters and several environmental sensors. The projet found water to be highly effective against alpha and beta type particle radiation, without harmful secondary radiation associated with metallic shielding methods, and won first place in the ITLL Fall 2016 Design Fair.
+<img src="images/presentation.jpg" alt="" align="left" height="250" hspace="10"/> Project Threat Level Midnight was for the ASEN 1400 Gateway to Space course at CU Boulder, and was my first experience working on an aerospace related project. The project researched the viability of water as a shield against dangerous particle and electromagnetic radiation found in space and near space. Our team designed, built, launched, and recovered a high-altitude balloon satellite with an integrated Arduino Uno microcontroller and an analog sensor package. As team co-lead, I helped coordinate team member responsibilities a prepare the project proposal, design reviews, and final report. As Software Lead, I wrote the project's flight software in C, which operated two geiger counters and several environmental sensors. The projet found water to be highly effective against alpha and beta type particle radiation, without harmful secondary radiation associated with metallic shielding methods, and won first place in the ITLL Fall 2016 Design Fair.
 
 <br />
 
